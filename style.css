@@ -18,12 +18,14 @@ color:gray;
  margin: 50px;
 }
 img{
-    border-width: 7px;
-    border-style: solid;
-    
+
     height: 3500px;
     width: 2500px;
     margin: 50px;
     height: 300px;
     width: 200px;
+}
+.red{
+    background-color: rgb(43, 1, 1);
+    color:whitesmoke
 }
