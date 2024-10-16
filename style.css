@@ -1,12 +1,29 @@
-nav{
-    background-color: rgb(226, 39, 120);
-    color:aliceblue;
-    width: 6000px;
+
+.header {
+    background-image: url(_.jpeg);
+    background-color:lightgrey;
+    color:white;
     height: 50px;
+    width: 1500px;
 }
 nav ul li {
-    
     color: azure;
     display: inline-block;
     margin-right: 30px;
+}
+.pic{
+color:gray;
+ height: 3500px;
+ width: 2500px;
+ margin: 50px;
+}
+img{
+    border-width: 7px;
+    border-style: solid;
+    
+    height: 3500px;
+    width: 2500px;
+    margin: 50px;
+    height: 300px;
+    width: 200px;
 }
