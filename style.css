@@ -3,8 +3,22 @@
     background-image: url(_.jpeg);
     background-color:lightgrey;
     color:white;
-    height: 50px;
+    height: 80px;
     width: 1500px;
+    
+}
+li {
+    padding: 20px 20px 20px 20px ;
+    text-align: center;
+   
+}
+.nav a:link, a:visited {
+    background-color: #3e0905;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 nav ul li {
     color: azure;
@@ -26,10 +40,12 @@ img{
     width: 200px;
 }
 .red{
-    height: 400px;
-    width: 1500px;
+   
     background-color: rgb(43, 1, 1);
     color:whitesmoke;
     align-content: center;
     
+}
+.fix{
+    background-color: rgba(60, 1, 1, 0.892);
 }
