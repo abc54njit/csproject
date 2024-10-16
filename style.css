@@ -26,6 +26,10 @@ img{
     width: 200px;
 }
 .red{
+    height: 400px;
+    width: 1500px;
     background-color: rgb(43, 1, 1);
-    color:whitesmoke
+    color:whitesmoke;
+    align-content: center;
+    
 }
