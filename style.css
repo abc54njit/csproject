@@ -1,6 +1,7 @@
 
 .header {
     background-image: url(_.jpeg);
+    background-size: cover;
     background-color:lightgrey;
     color:white;
     height: 80px;
@@ -44,6 +45,8 @@ img{
     background-color: rgb(43, 1, 1);
     color:whitesmoke;
     align-content: center;
+    font-family:'Times New Roman';
+    font-style: italic;
     
 }
 .fix{
