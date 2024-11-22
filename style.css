@@ -1,10 +1,25 @@
 
 .header {
     background-image: url(_.jpeg);
+    background-size: cover;
     background-color:lightgrey;
     color:white;
-    height: 50px;
+    height: 80px;
     width: 1500px;
+    
+}
+li {
+    padding: 20px 20px 20px 20px ;
+    text-align: center;
+   
+}
+.nav a:link, a:visited {
+    background-color: #3e0905;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
 nav ul li {
     color: azure;
@@ -26,53 +41,14 @@ img{
     width: 200px;
 }
 .red{
+   
     background-color: rgb(43, 1, 1);
-    color:whitesmoke
+    color:whitesmoke;
+    align-content: center;
+    font-family:'Times New Roman';
+    font-style: italic;
+    
 }
-
-
-
-
-
-
-
-
-.image-row {
-    display: flex;               
-    justify-content: center;      
-    gap: 20px;                    
-    padding: 20px;                
-}
-
-
-a.image-container {
-    text-align: center;          
-    text-decoration: none;     
-    display: block;               
-    width: 50px;                 
-}
-
-.image-container img {
-    width: 100%;                 
-    height: auto;                
-    border-radius: 8px;           
-    transition: transform 0.2s;   
-}
-
-
-.image-text {
-    margin-top: 10px;            
-    font-size: 16px;              
-    color: #333;                 
-    margin-bottom: 0;             
-}
-
-
-a.image-container:hover img {
-    transform: scale(1.05);       
-}
-
-a.image-container:hover .image-text {
-    color: #007bff;               
-    cursor: pointer;             
+.fix{
+    background-color: rgba(60, 1, 1, 0.892);
 }
