@@ -1,8 +1,8 @@
 
 .header {
-    background-image: url(_.jpeg);
+   
     background-size: cover;
-    background-color:lightgrey;
+    background-color:rgb(128, 125, 125);
     color:white;
     height: 80px;
     display: flex;
